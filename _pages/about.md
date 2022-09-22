@@ -52,11 +52,11 @@ Junyu Shi; Wei Wan; **Jianrong Lu**; Shengshan Hu; Leo Yu Zhang.
 TrustCom 2022, ACCEPTED ([PDF](https://arxiv.org/pdf/2112.14468.pdf)):  Accepted by IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022.
 
 -Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints
-Minghui Li; Junyu Shi; Wei Wan; Jianrong Lu; Shengshan Hu; Leo Yu Zhang.
+Minghui Li; Junyu Shi; Wei Wan; **Jianrong Lu**; Shengshan Hu; Leo Yu Zhang.
 MSN 2022, UNDER REVIEW: International Conference on Mobility, Sensing and Networking (MSN), 2022.
 
 -Shielding Federated Learning: a Four-Pronged Defense against Byzantine Attacks
-Wei Wan; Shengshan Hu; Minghui Li; Leo Yu Zhang; Jianrong Lu; Yuanyuan He; Hai Jin.
+Wei Wan; Shengshan Hu; Minghui Li; Leo Yu Zhang; **Jianrong Lu**; Yuanyuan He; Hai Jin.
 AAAI 2023, UNDER REVIEW: The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023. Under review. 
 
 Miscellaneous Experience
