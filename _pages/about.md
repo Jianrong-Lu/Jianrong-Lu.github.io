@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am doing my Master's at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), and affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn/index.htm)) Lab, AI Security and Privay Group (AISP). I am preparing to apply for a PHD and looking for further studies starting from fall 2023.
+I am doing my Master's at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), and affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn/index.htm)) Lab, AI Security and Privay (AISP) Group. I am preparing to apply for a PHD and looking for further studies starting from fall 2023.
 
 Education
 ======
