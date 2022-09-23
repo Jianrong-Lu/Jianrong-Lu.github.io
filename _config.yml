@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "陆建荣 / Jianrong Lu"
+title                    : "陆建荣 / Jianrong Lu / Alvin"
 title_separator          : "-"
 name                     : &name "Jianrong Lu"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianrong Lu / Alvin"
-  avatar           : "profile.png"
+  name             : "陆建荣 / Jianrong Lu / Alvin"
+  avatar           : "profile.jpg"
   bio              : "Master in Huazhong University of Science and Technology (HUST)"
   location         : "Location"
   employer         :
