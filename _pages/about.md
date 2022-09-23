@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am doing my Master's at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), and affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn/index.htm)) Lab. I am preparing to apply for becoming a PhD student and looking for further studies starting from fall 2023.
+I am doing my Master's at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), and affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn/index.htm)) Lab. I am preparing to apply for a PHD and looking for further studies starting from fall 2023.
 
 Education
 ======
@@ -64,6 +64,7 @@ AAAI 2023, UNDER REVIEW: The Thirty-Seventh AAAI Conference on Artificial Intell
 
 Miscellaneous Experience
 ======
+
 Awards: 
 ------
 - Second-class Academic Scholarship
