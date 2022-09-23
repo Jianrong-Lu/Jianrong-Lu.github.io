@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I was born and raised in [Liping County](https://baike.baidu.com/item/%E9%BB%8E%E5%B9%B3%E5%8E%BF/424519?fr=aladdin), an enclave nestled in the luxuriant mountains of Guizhou，China. My hometown is famous for [Grand Song of Dong Minority](https://en.unesco.org/silkroad/silk-road-themes/intangible-cultural-heritage/grand-song-dong-ethnic-group) ([video 1](https://www.youtube.com/watch?v=Y5Hp48-RNYE), [video 2](https://www.youtube.com/watch?v=DosPYXagLs8)), which is one of UNESCO Intangible Cultural Heritage. I'm looking forward to seeing you in my hometown.
+I was born and raised in [Liping County](https://baike.baidu.com/item/%E9%BB%8E%E5%B9%B3%E5%8E%BF/424519?fr=aladdin), an enclave nestled in the luxuriant mountains of GuizhouChina. My hometown is famous for [Grand Song of Dong Minority](https://en.unesco.org/silkroad/silk-road-themes/intangible-cultural-heritage/grand-song-dong-ethnic-group) ([video 1](https://www.youtube.com/watch?v=Y5Hp48-RNYE), [video 2](https://www.youtube.com/watch?v=DosPYXagLs8)), which is one of UNESCO Intangible Cultural Heritage. I'm looking forward to seeing you in my hometown.
 
 
 Education
