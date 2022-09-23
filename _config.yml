@@ -85,8 +85,8 @@ author:
   bio              : "Master in Huazhong University of Science and Technology (HUST)"
   location         : "Wuhan, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6DAjXWQDVQpldY4QcZxApFU3j8i7xepP8TdOb0YqeAGIeWVWTRRbzXjb2cl7Tzq5_u7MyzrHA7Mn2jU2Okk2-Owt_F1Y0Exv0k2mUEfDUhF6LCcSw&user=k-oe9TUAAAAJ"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6DAjXWQDVQpldY4QcZxApFU3j8i7xepP8TdOb0YqeAGIeWVWTRRbzXjb2cl7Tzq5_u7MyzrHA7Mn2jU2Okk2-Owt_F1Y0Exv0k2mUEfDUhF6LCcSw&user=k-oe9TUAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/Jianrong-Lu"
+#   orcid            : "http://orcid.org/Jianrong-Lu"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
