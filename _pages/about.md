@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am doing my Master's at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), and affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn/index.htm)) Lab, AI Security and Privacy (AISP) Group. I am preparing to apply for a PHD and looking for further studies starting from fall 2023.
+I was born and raised in [Liping County](https://baike.baidu.com/item/%E9%BB%8E%E5%B9%B3%E5%8E%BF/424519?fr=aladdin), an enclave nestled in the luxuriant mountains of Guizhou，China. My hometown is famous for [Grand Song of Dong Minority](https://en.unesco.org/silkroad/silk-road-themes/intangible-cultural-heritage/grand-song-dong-ethnic-group) ([video 1](https://www.youtube.com/watch?v=Y5Hp48-RNYE), [video 2](https://www.youtube.com/watch?v=DosPYXagLs8)), which is one of UNESCO Intangible Cultural Heritage. I'm looking forward to seeing you in my hometown.
+
 
 Education
 ======
-I was born and raised in [Liping County](https://baike.baidu.com/item/%E9%BB%8E%E5%B9%B3%E5%8E%BF/424519?fr=aladdin), belonging to Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province, China. 
-Before moving to HUST, I worked on different projects in my undergraduate years, and graduated with a B.S. degree in Information and Computing Science from the School of Mathematics and Computer Science, Fu Zhou University, China, in June 2020. Before that I studied at Li Ping The First National Schools in Guizhou.
+I am doing my Master's at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), and affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn/index.htm)) Lab, AI Security and Privacy (AISP) Group.  Before moving to HUST, I worked on different projects in my undergraduate years, and graduated with a B.S. degree in Information and Computing Science from the School of Mathematics and Computer Science, Fu Zhou University, China, in June 2020. Before that I studied at Li Ping The First National Schools in Guizhou.
+
+**I am preparing to apply for a PHD and looking for further studies starting from fall 2023.**
 
 Research Interests
 ======
