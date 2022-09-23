@@ -19,7 +19,7 @@ Research Interests
 ======
 My research focuses on providing fundamental understandings of how Federated Learning (FL) is influenced by system-level variability in the computing infrastructure, and statistical variability in the training data. Inspired by the theoretical insights, I seek to design system- and data-aware distributed/federated training algorithms that can seamless scale to a large number of computing nodes in realistic secnarios.
 
-I am broadly interested in federated learning, algorithm Robustness, distributed optimization, and medical image analysis.
+I am broadly interested in federated learning, algorithm robustness, distributed optimization, and medical image analysis.
 
 Publication & Manuscripts
 ======
