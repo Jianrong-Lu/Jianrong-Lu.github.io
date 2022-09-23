@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](https://Jianrong-Lu.github.io/files/HUST_Jianrong_Lu_Resume.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+I attach my [resume](https://Jianrong-Lu.github.io/files/HUST_Jianrong_Lu_Resume.pdf) here.
 
 <!-- Education
 ======
