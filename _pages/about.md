@@ -25,42 +25,51 @@ Publication & Manuscripts
 ======
 - Shielding Federated Learning: Rectifying Direction Is All You Need <br>
 **Jianrong Lu**; Shengshan Hu; Wei Wan; Minghui Li; Leo Yu Zhang; Xiaojing Ma; Hai Jin <br>
-NDSS 2023, UNDER REVIEW (passed the first round of review): The Network and Distributed System Security Symposium (NDSS), 2023 <br>
+NDSS 2023, UNDER REVIEW (passed the first round of review):<br> 
+The Network and Distributed System Security Symposium (NDSS), 2023 <br>
 
 - Rethinking the Optimization Objective in Federated Learning <br>
 **Jianrong Lu**; Wei Wan; Shengshan Hu; Yutong Dai; Dezhong Yao; Lichao Sun; Leo Yu Zhang; Hai Jin <br>
-WWW 2023, IN PREPARATION (all experiments and parts of writings have been completed): Submitting to the Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) <br>
+WWW 2023, IN PREPARATION (all experiments and parts of writings have been completed):<br> 
+Submitting to the Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) <br>
 
 - Federated Heterogeneous Optimization without Strong Assumptions <br>
 **Jianrong Lu**; Wei Wan; Shengshan Hu; Leo Yu Zhang; Hai Jin <br>
-CVPR 2023, IN PREPARATION (all experiments have been completed): Submitting to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023 <br>
+CVPR 2023, IN PREPARATION (all experiments have been completed): <br> 
+Submitting to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023 <br>
 
 - Federated PET/CT Data Fusion and Auto-segmentation <br>
 **Jianrong Lu**; Longling Zhang, Wei Wan; Shengshan Hu; Leo Yu Zhang; Hai Jin <br>
-MICCAI 2023, IN PREPARATION (parts of experiments have been completed): Submitting to the International Conference on Medical Image Computing and Computer Assisted Intervention <br>
+MICCAI 2023, IN PREPARATION (parts of experiments have been completed): <br> 
+Submitting to the International Conference on Medical Image Computing and Computer Assisted Intervention <br>
 
 - Shielding Federated Learning: A New Attack Approach and Its Defense <br>
 Wei Wan; **Jianrong Lu**; Shengshan Hu; Leo Yu Zhang; Xiaobing Pei <br>
-WCNC 2021, ACCEPTED: Accepted by IEEE Wireless Communications and Networking Conference (WCNC), 2021 <br>
+WCNC 2021, ACCEPTED: <br> 
+Accepted by IEEE Wireless Communications and Networking Conference (WCNC), 2021 <br>
 [[PDF](https://ieeexplore.ieee.org/abstract/document/9417334)]
 
 - Shielding Federated Learning: Robust Aggregation with Adaptive Client Selection <br>
 Wei Wan; Shengshan Hu; **Jianrong Lu**; Leo Yu Zhang <br>
-IJCAI-ECAI 2022, ACCEPTED (LONG oral presentation, acceptance rate 3%: Accepted by the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial 	Intelligence (IJCAI-ECAI), 2022 <br>
+IJCAI-ECAI 2022, ACCEPTED (LONG oral presentation, acceptance rate 3%): <br>
+Accepted by the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial 	Intelligence (IJCAI-ECAI), 2022 <br>
 [[PDF](https://arxiv.org/pdf/2204.13256.pdf)]
 
 - Challenges and Approaches for Mitigating Byzantine Attacks in Federated Learning <br>
 Junyu Shi; Wei Wan; **Jianrong Lu**; Shengshan Hu; Leo Yu Zhang <br>
-TrustCom 2022, ACCEPTED:  Accepted by IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022 <br>
+TrustCom 2022, ACCEPTED: <br>
+Accepted by IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022 <br>
 [[PDF](https://arxiv.org/pdf/2112.14468.pdf)]
  
 - Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints <br>
 Minghui Li; Junyu Shi; Wei Wan; **Jianrong Lu**; Shengshan Hu; Leo Yu Zhang <br>
-MSN 2022, UNDER REVIEW: International Conference on Mobility, Sensing and Networking (MSN), 2022 <br>
+MSN 2022, UNDER REVIEW: <br>
+International Conference on Mobility, Sensing and Networking (MSN), 2022 <br>
 
 - Shielding Federated Learning: a Four-Pronged Defense against Byzantine Attacks <br>
 Wei Wan; Shengshan Hu; Minghui Li; Leo Yu Zhang; **Jianrong Lu**; Yuanyuan He; Hai Jin <br>
-AAAI 2023, UNDER REVIEW: The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 <br>
+AAAI 2023, UNDER REVIEW: <br> 
+The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 <br>
 
 Miscellaneous Experience
 ======
