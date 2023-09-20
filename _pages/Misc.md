@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I attach my [review results](https://Jianrong-Lu.github.io/#277 - USENIX Security '22 Fall.pdf) here.
+I attach my [review results](https://Jianrong-Lu.github.io/files/USENIX_Security_Review.pdf) here.
 
 <!-- Education
 ======
